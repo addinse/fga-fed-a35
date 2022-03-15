@@ -1,3 +1,16 @@
 /* untuk tablet */
 
+@media all and (max-width: 1000px) {}
+
+
 /* untuk ponsel */
+
+@media all and (max-width: 670px) {
+    /* header */
+    .header-right {
+        display: none;
+    }
+    span.menu-icon {
+        display: block;
+    }
+}
