@@ -96,7 +96,49 @@ span.menu-icon {
 
 
 /* about */
-
+.about-body {
+    padding-bottom: 80px;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: #f7f7f7;
+    text-align: center;
+}
+  
+.heading {
+    padding-top: 50px;
+    padding-bottom: 80px;
+    color: black;
+}
+  
+.heading h1 {
+    font-weight: bold;
+}
+  
+.card {
+    float: left;
+    width: 20%;
+}
+  
+.card-icon {
+    position: relative;
+}
+  
+.card-icon img {
+    border: 2px solid #000000;
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin-bottom: 25px;
+}
+  
+.card-txt {
+    width: 80%;
+    display: inline-block;
+    margin-top: 15px;
+    font-size: 24px;
+    color: balck;
+}
 
 /* end-about */
 

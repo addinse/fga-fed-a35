@@ -12,6 +12,16 @@
 
 /* end-home */
 
+/* about */
+.heading h1 {
+    font-size: 30px;
+}
+  
+.card {
+    width: 50%;
+    margin-bottom: 50px;
+}
+/* end-about */
 
 /* untuk ponsel */
 
@@ -37,4 +47,9 @@
         line-height: 20px;
     }
     /* end-home */
+    /* about */
+    .card {
+        width: 100%;
+    }
+    /* end-about */
 }
