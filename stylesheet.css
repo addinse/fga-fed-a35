@@ -144,7 +144,29 @@ span.menu-icon {
 
 
 /* contact */
+.contact-form {
+    padding-top: 50px;
+    text-align: center;
+    background: #f7f7f7;
+  }
 
+input, textarea {
+    width: 400px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 10px;
+    font-size: 18px;
+    border: 2px solid #dee7ec;
+   }
+  
+.contact-submit {
+    width: 100px;
+    margin-top: 20px;
+    cursor: pointer;
+    padding: 10px 10px;
+    display: inline-block;
+    margin-bottom: 50px;
+    }
 
 /* end-contact */
 
