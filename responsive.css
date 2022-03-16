@@ -52,4 +52,10 @@
         width: 100%;
     }
     /* end-about */
+    /* contact */
+    .form-group {
+      width: 100%;
+      padding: 0px 10px
+    }
+    /* end-contact */
 }
