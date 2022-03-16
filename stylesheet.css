@@ -96,6 +96,8 @@ span.menu-icon {
 
 
 /* about */
+
+
 .about-body {
     padding-bottom: 80px;
     padding-left: 5%;
@@ -140,6 +142,10 @@ span.menu-icon {
     color: balck;
 }
 
+.clear {
+  clear: left;
+}
+
 /* end-about */
 
 
@@ -150,7 +156,7 @@ span.menu-icon {
     background: #f7f7f7;
   }
 
-.form-title {
+.form-title h3 {
     font-size: 28px;
     padding-bottom: 15px;
     margin-bottom: 30px;
