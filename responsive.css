@@ -53,7 +53,7 @@
     }
     /* end-about */
     /* contact */
-    .form-group {
+    .form-group input, textarea {
       width: 100%;
       font-size: 15px;
     }
